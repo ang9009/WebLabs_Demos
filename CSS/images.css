@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image{
+    background-image: url(../images/background.jpg);
+    color: white;
+    height: 50vh;
+    font-size: 1.5rem;
+    background-size: cover;
+}
+

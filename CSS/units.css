@@ -1,0 +1,50 @@
+/*ABSOLUTE UNITS*/
+/*Pixels*/
+.pixels {
+  font-size: 30px;
+}
+
+/*RELATIVE UNITS*/
+/*Em*/
+/*Relative to the parent element or the default browser style, 16px.*/
+.parent-em {
+  font-size: 30px;
+}
+
+.em {
+  font-size: 2em;
+}
+
+/*Rem*/
+/*Relative to the browser style. By default, browsers will set rem = 16px.*/
+.rem {
+  font-size: 2rem;
+}
+
+/*View height*/
+/*Relative to the height of the window.*/
+.vh {
+  font-size: 4vh;
+}
+
+/*View width*/
+/*Relative to the width of the window*/
+.vw {
+  font-size: 5vw;
+}
+
+/*Percent*/
+/*Relative to the parent element or the default browser style, 16px.*/
+.parent-percent {
+  font-size: 30px;
+}
+
+.percent {
+  font-size: 200%;
+}
+
+/*Calc function*/
+.calc {
+  font-size: calc(116px - 1em);
+}
+

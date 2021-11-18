@@ -1,0 +1,96 @@
+/* Padding in specific directions */
+/* h1 {
+  background: cornflowerblue;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+  padding-right: 20px;
+} */
+
+/* Padding shorthand 1 */
+/* h1 {
+  background: cornflowerblue;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding: 50px;
+} */
+
+/* Padding shorthand 2 */
+/* h1 {
+  background: cornflowerblue;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding: 50px 30px;
+} */
+
+/* Padding shorthand 3 */
+/* h1{
+  background: cornflowerblue;
+  padding: 20px 30px 40px 50px;
+} */
+
+/* Border */
+/* h1{
+  background: cornflowerblue;
+  padding: 20px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: purple;
+} */
+
+/* Border shorthand */
+/* h1{
+  background: cornflowerblue;
+  padding: 20px;
+  border: 6px solid purple;
+} */
+
+/* Border in specific directions */
+/* h1{
+  background: cornflowerblue;
+  border-top: 5px solid blue;
+  border-bottom: 17px solid purple;
+  border-left: 9px solid green;
+  border-right: 10px solid red;
+  border-radius: 15px;
+} */
+
+/* Margin */
+/* h1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+} */
+
+/* Margin shorthand */
+/* h1{
+  margin: 50px;
+  margin: 20px 30px;
+  margin: 20px 30px 40px 50px;
+} */
+
+/* Box Sizing Border Box */
+/* h1{
+  background: cornflowerblue;
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+}
+
+h2{
+  background: cornflowerblue;
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+  box-sizing: border-box;
+  margin-left: 50px;
+}
+
+body{
+  display: flex;
+} */

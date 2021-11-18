@@ -1,0 +1,11 @@
+:root {
+  --primaryColor: #1313fa;
+}
+
+.hi {
+  color: var(--primaryColor);
+}
+
+.hello {
+  color: var(--primaryColor);
+}

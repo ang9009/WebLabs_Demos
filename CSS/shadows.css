@@ -1,0 +1,12 @@
+.box {
+  width: 150px;
+  height: 150px;
+  background: cornflowerblue;
+  box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.text {
+  color: orange;
+  background: orange;
+  text-shadow: 0px 0px 3px black;
+}

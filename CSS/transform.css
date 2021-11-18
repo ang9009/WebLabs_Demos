@@ -1,0 +1,47 @@
+div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+/* Translate */
+.one {
+  background: red;
+  /* transform: translateX(50px); */
+}
+
+.two {
+  background: blue;
+  /* transform: translateY(40px); */
+}
+
+.three {
+  background: green;
+  /* transform: translate(50px, 60px); */
+}
+
+/* Scale */
+/* .one{
+    transform: scaleX(0.5);
+}
+
+.two{
+    transform: scaleY(2);
+}
+
+.three{
+    transform: scale(0.5, 2);
+} */
+
+/* Rotate */
+/* .one {
+  transform: rotateZ(45deg);
+}
+
+.two {
+  transform: rotateX(30deg);
+}
+
+.three {
+  transform: rotateY(90deg);
+} */

@@ -1,0 +1,12 @@
+:root{
+    background: cornflowerblue;
+    /* font-size: 150% */
+}
+
+.absolute{
+    font-size: 32px;
+}
+
+.relative{
+    font-size: 2rem;
+}

@@ -1,0 +1,29 @@
+div {
+  width: 150px;
+  height: 150px;
+}
+
+.one {
+  background: blue;
+  /* transition-property: background;
+  transition-duration: 0.2s;
+  transition-delay: 2s; */
+
+  /* transition: property | duration | delay*/
+  /* transition: background 0.2s 2s; */
+
+  transition: all 0.2s;
+}
+
+.one:hover {
+  background: coral;
+  /* transform: scale(2, 2); */
+}
+
+.two {
+  background: green;
+}
+
+.three {
+  background: red;
+}

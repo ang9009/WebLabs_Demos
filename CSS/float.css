@@ -1,0 +1,11 @@
+/* Floats */
+img {
+  width: 300px;
+  height: 300px;
+  margin-right: 10px;
+  float: right;
+}
+
+p {
+  border: solid 5px red;
+}
